@@ -1,4 +1,4 @@
-#=== PayDunya ===
+# === PayDunya ===
 *   Contributors: PayDunya
 *   Donate link: N/A
 *   Tags: paydunya, passerelle, paiement, payment gateway, mobile wallet, payment, mobilemoney, mobile money, orange, senegal, sénégal, dakar, orange money, joni joni, wari, money, cfa, xof, bceao
@@ -10,13 +10,13 @@
 
     Acceptez facilement des paiements via Orange Money sur votre site Prestashop.
 
-#== Description ==
+# == Description ==
 
 >PayDunya est une solution simple, rapide et sécurisée vous permettant d'effectuer des paiements en ligne via Orange Money.
 
 >PayDunya is a simple, fast and secure solution that allows you to accept payments on your Prestashop store via Orange Money.
 
-#== Installation ==
+# == Installation ==
 
 1. Uploader le module comme tout autre module Prestashop
 2. Activer et configurer le module dans le menu « Modules -> Modules et Services -> Sélection » de Prestashop.
@@ -25,9 +25,9 @@
 
 >Pour plus d’informations: https://paydunya.com/developers
 
-#== Changelog ==
+# == Changelog ==
 
-#####= 2.0.0 =
+##### = 2.0.0 =
 * Second Release
 
 [PayDunya]:https://paydunya.com
